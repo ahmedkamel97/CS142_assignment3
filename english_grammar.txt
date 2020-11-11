@@ -1,0 +1,13 @@
+S -> NP VP
+VP -> VP PP | V NP | V NP PP | V PP
+PP -> P NP
+NM -> NM PP | N NM | N
+NP -> P | N | N C N | P C N | N C P | P C P | AR A NM | AR NM
+P -> 'I' | 'You' | 'He' | 'She' | 'It' | 'We' | 'You' | 'They'
+AR -> 'A' | 'An' | 'The'
+N -> 'Anxiety' | 'Death' | 'Confusion' | 'Loneliness' | 'Life' | 'Weakness' | 'Hate' | 'Failure' | 'Fear' |  'Belief' | 'Attention' | 'Pain' | 'Desire' | 'Trust' | 'Liberty' | 'Fiction' | 'Coldness' | 'Chaos' | 'Tea'
+V -> 'Accept' | 'Accuse' | 'Adapt' | 'Apologize' | 'Attempt' | 'Fail' | 'Grow' | 'Grind' | 'Improve' | 'Insist' | 'Cry' | 'Complain' | 'Compare' | 'Burn' | 'Burst' | 'Care' | 'Appreciate' | 'Discover' | 'Give' | 'Dislike' | 'Drank'
+A ->  'Able' | 'Angry' | 'Animal' | 'Anxious' | 'Capable' | 'Brilliant' | 'Bitter' | 'Brave' | 'Best' | 'Competitive' | 'Common' | 'Conscious' | 'Crazy' | 'Creative' | 'Dramatic' | 'Dirty' | 'Drunk' | 'Difficult'
+P -> 'I' | 'You' | 'He' | 'She' | 'It' | 'We' | 'You' | 'They'
+C -> 'And' | 'Another' | 'Actually' | 'First' | 'Still' | 'Then' | 'Thus' | 'Therefore' | 'Least' | 'Last' | 'Also' | 'Lastly' | 'After' | 'Accordingly'
+PR -> 'About' | 'After' | 'Against' | 'Among' | 'Amidst' | 'Before' | 'Below' | 'Under' | 'To' | 'Till' | 'throughout' | 'towards' | 'Inside' | 'Behind' | 'Beneath' | 'Past' | 'By' | 'Beyond'
